@@ -13,7 +13,7 @@ Hosting: Azure Web App
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/job-explorer.git
+git clone (https://github.com/georgemaged900/JobExplorerApp/tree/master)
 cd job-explorer
 
  Backend Setup (.NET 8+)
