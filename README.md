@@ -35,7 +35,7 @@ dotnet run
 
 The API will run on:
 
-https://localhost:5001 or https://joblistingapi-d3g2azgvcgc4ecbz.northeurope-01.azurewebsites.net/api/Jobs
+https://localhost:44351 or https://joblistingapi-d3g2azgvcgc4ecbz.northeurope-01.azurewebsites.net/api/Jobs
 
  Key Features
 
